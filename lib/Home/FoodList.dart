@@ -117,7 +117,7 @@ class _foodlistState extends State<foodlist> {
 
                                              },
                                              icon: Icon(Icons.update),
-                                             label: Text('Update')
+                                             label: Text('Update dish item')
                                          ),
                                        ),
                                      ),

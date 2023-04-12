@@ -55,7 +55,7 @@ class _viewRecipeState extends State<viewRecipe> {
                   //ListTile
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
-                    children: ingredients.asMap().entries.map((entry) => Container(padding: EdgeInsets.all(10.0), child: Text('${entry.key}. ${entry.value}'))).toList(),
+                    children: ingredients.asMap().entries.map((entry) => Container(padding: EdgeInsets.all(10.0), child: Text('${entry.key + 1}. ${entry.value}', style: TextStyle(fontSize: 20.0)))).toList(),
                     ),
 
 
