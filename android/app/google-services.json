@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188088030788",
+    "project_id": "chefbot-94a69",
+    "storage_bucket": "chefbot-94a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188088030788:android:4716132103a1d6d7728e11",
+        "android_client_info": {
+          "package_name": "com.example.project470"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188088030788-thd63ck3joprsqecrgqskf96k84anrku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrSM8rXS0psCHrtHb1gmk00VyAi-PJCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188088030788-thd63ck3joprsqecrgqskf96k84anrku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
